@@ -1,1 +1,3 @@
-# market-news
+# Build
+
+`docker build -t cronjob .`
